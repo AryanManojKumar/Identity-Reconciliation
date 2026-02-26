@@ -2,6 +2,8 @@
 
 Backend service for linking customer identities across multiple purchases using different contact information.
 
+🚀 **Live Demo**: https://identity-reconciliation-zmrt.onrender.com/docs
+
 ## Setup
 
 1. Install dependencies:
@@ -24,6 +26,10 @@ Server starts at: http://localhost:5000
 ## API Documentation
 
 Interactive API docs available at:
+- **Live Swagger UI**: https://identity-reconciliation-zmrt.onrender.com/docs
+- **Live ReDoc**: https://identity-reconciliation-zmrt.onrender.com/redoc
+
+Local development:
 - Swagger UI: http://localhost:5000/docs
 - ReDoc: http://localhost:5000/redoc
 
